@@ -1,4 +1,4 @@
 firstblood
 doublekill
 triplekill
-abc
+abc100%
